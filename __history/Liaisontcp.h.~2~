@@ -1,0 +1,14 @@
+//---------------------------------------------------------------------------
+
+#ifndef LiaisontcpH
+#define LiaisontcpH
+
+class Liaisontcp
+{
+
+
+
+
+
+};
+#endif
